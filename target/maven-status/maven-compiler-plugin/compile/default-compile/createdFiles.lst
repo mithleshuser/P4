@@ -1,0 +1,3 @@
+com\tss\examples\account\controllers\AccountController.class
+com\tss\examples\account\controllers\ResourceNotFoundException.class
+com\tss\examples\account\domain\Account.class
